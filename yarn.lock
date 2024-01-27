@@ -1248,6 +1248,13 @@ __metadata:
   languageName: node
   linkType: hard
 
+"@openzeppelin/contracts@npm:^5.0.1":
+  version: 5.0.1
+  resolution: "@openzeppelin/contracts@npm:5.0.1"
+  checksum: d0a9ae98c2486eb3c4a3fa31cb9d4e8ea21aef3f1d0d4709a6c8550be0133ccfbad541e524980356b802c10c47de24c49844fac1b746980dbd5b560bd1762301
+  languageName: node
+  linkType: hard
+
 "@pkgjs/parseargs@npm:^0.11.0":
   version: 0.11.0
   resolution: "@pkgjs/parseargs@npm:0.11.0"
@@ -6307,6 +6314,7 @@ __metadata:
     "@nomicfoundation/hardhat-network-helpers": "npm:^1.0.10"
     "@nomicfoundation/hardhat-toolbox": "npm:^4.0.0"
     "@nomicfoundation/hardhat-verify": "npm:^2.0.2"
+    "@openzeppelin/contracts": "npm:^5.0.1"
     "@trivago/prettier-plugin-sort-imports": "npm:^4.3.0"
     "@typechain/ethers-v6": "npm:^0.5.1"
     "@typechain/hardhat": "npm:^9.1.0"

@@ -1,6 +1,6 @@
-# Project Title
+# GLNT NFT Mint Contract
 
-Info about the project.
+This contract is used to mint GLNT NFT tokens.
 
 ## Installation
 
